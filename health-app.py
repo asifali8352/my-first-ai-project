@@ -212,5 +212,7 @@ with col4:
 # Footer
 st.write("---")
 st.write("💡 **Remember:** This is a learning project! Always consult real healthcare professionals for medical advice.")
-st.write("🎉 **"When you focus on your health, you awaken your creativity." – Stacey Morgenstern!**")
+st.write("""🎉 **"When you focus on your health, you awaken your creativity." – Stacey Morgenstern!**""")
+
+
 
